@@ -61,3 +61,4 @@ class IsPrimeRange {
         sc.close();
     }
 }*/
+
